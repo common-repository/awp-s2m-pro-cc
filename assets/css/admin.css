@@ -1,0 +1,3 @@
+table.ws-menu-page-table table.coupons-table th:first-child, table.ws-menu-page-table table.coupons-table td:first-child {
+  width: 10% !important;
+}
